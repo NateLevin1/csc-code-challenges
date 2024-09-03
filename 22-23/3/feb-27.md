@@ -12,5 +12,5 @@ Output: "Valid"
 Input: "13/01/2023"
 Output: "Invalid"
 
-Input: "1/32/2023"
-Output: "Valid"
+Input: "01/32/2023"
+Output: "Invalid"
