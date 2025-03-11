@@ -4,12 +4,13 @@ Meeting Today & Challenge #🍇 (🍇/🍇)
 
 Hello Computer Science Club members,
 
-⭐️ We have a meeting today in room 274 during patriot period.
+⭐️ We have a meeting today in room 274 during **patriot period**.
 Make sure to go if you can!
 
-Today we have Code Challenge #🍇! The challenge is below in this email if you'd like to try it but can't come to the meeting. Please email me your solution if you do! Otherwise, we will help each other solve the problem during the meeting.
+Today we have Code Challenge #🍇! The challenge is below in this email; you can start solving it now if you want, but most of us will be working on it during the meeting. 
 
-Hope to see you there!
+If you solve it and do not come to the meeting, please email me your solution so you can get your points. Otherwise, see you there!
+
 Gabe Cohen
 
 ———
