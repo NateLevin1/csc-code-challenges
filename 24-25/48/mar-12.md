@@ -1,8 +1,6 @@
 # Igpay Atinlay
 
-Uh oh! The kids at Dorothy Hamm Middle School have all written their book reports in pig latin.
-You're the teacher that has to grade their essays, though, and you don't want to fail them all.
-The only option is to write a program that will translate the essays back into English.
+In the process of taking over Computer Science Club, Gabe Cohen must crack Nate Levin's Canvas password. Fortunately, Gabe obtained a conversation transcript between Nate and his password manager, Chuck. Unfortuantely, the conversation is in Pig Latin.
 
 **Write a function that takes a string of pig latin and returns the original English version.**
 
@@ -32,11 +30,11 @@ Make sure to maintain capitalization of words with uppercase first letters.
 
 Input:
 ```
-Smay. Eay Mithsay eachestay lasscay noay Arsmay. Eryvay oolcay.
+Ymay ewnay odecay ashay entay aractershay. Tiay siay aay reatgay asswordpay.
 ```
 
 Output:
 
 ```
-Ms. E Smith teaches class on Mars. Very cool.
+My new code has ten characters. It is a great password.
 ```
