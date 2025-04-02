@@ -1,6 +1,6 @@
 # Code Challenge: Tiny Golf
 
-You are playing Tiny Golf! The ball can move up, down, left, or right, and the ball will continue in that direction until it runs into a wall or falls into the hole. After running into a wall, the ball will stop and be able to move in another direction again.
+You are playing Tiny Golf (https://www.coolmathgames.com/0-tiny-golf-puzzles)! The ball can move up, down, left, or right, and the ball will continue in that direction until it runs into a wall or falls into the hole. After running into a wall, the ball will stop and be able to move in another direction again.
 
 Your goal is that, given a "tiny golf" board, composed of walls (X), empty spaces (_), the ball's starting point (O , not a zero), and the hole/goal (4, it's a flag in case you were wondering), you must print the minimum amount of moves to get the ball into the hole.
 
